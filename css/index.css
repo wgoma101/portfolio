@@ -1,0 +1,16 @@
+header{
+    display: flex;
+    padding: 0px 10px;
+    justify-content: space-between;
+    background-color: grey;
+}
+header img{     padding-top: 5px;}
+.main-nav{
+    display: flex;
+    column-gap: 40px;
+}
+#intro{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+}
